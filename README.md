@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brohamgoham aka mohammed
 - 👀 I’m interested in ... SuperAdvanced Autonomous Networks of Smart Contracts
-- 🌱 learning ... Metemorphic SmartContracts, DevOpz/ DevSecOpz/ AiDevSecOpsML (A.I, MachineLearning DevOpz we Security)
+- 🌱 learning ... Metemorphic SmartContracts, DevOpz/ DevSecOpz/ AiDevSecOpsML (A.I, MachineLearning DevOpz w/Security)
 - 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... 
 
