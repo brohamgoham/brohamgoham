@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brohamgoham
 - 👀 I’m interested in ... ERC721 ERC20, solidity Smart contracts
-- 🌱 I’m currently learning ... Metemorphic SmartContracts, CREATE2
+- 🌱 learning ... Metemorphic SmartContracts, DevOpz/ DevSecOpz/ AiDevSecOpsML (A.I, MachineLearning DevOpz we Security)
 - 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... 
 
