@@ -1,37 +1,39 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import styled from 'styled-components'
 
 function Header() {
     return (
         <Nav>
-            <Logo src="images/home-icon.svg" />
+            <Logo src="images/ll.jpeg" />
             <NavMenu>  
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/ll.jpeg" />
                     <span>HOMEz</span>
                 </a>
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/vv.jpeg" />
                     <span>SEARCH</span>
                 </a>
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/ww.jpeg" />
                     <span>WATCHLIST</span>
                 </a>
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/qqw.jpeg" />
                     <span>ORIGINALS</span>
                 </a>
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/viewerz.jpeg" />
                     <span>MOVIES</span>
                 </a>
                 <a>
-                    <img src="images/home-icon.svg" />
+                    <img src="images/reddesert.jpeg" />
                     <span>SERIES</span>
                 </a>
             </NavMenu>
-            <Usr src="images/home-icon.svg" />
+            <Usr src="images/viewers.jpg" />
         </Nav>
 
     )
@@ -45,6 +47,7 @@ background-color: #090b13;
 display: flex;
 align-items: center; 
 padding: 0 36px;
+overflow-x: hidden;
 `
 const Logo = styled.img`
     width: 80px;
