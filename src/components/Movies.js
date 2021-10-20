@@ -4,7 +4,7 @@ import styled from 'styled-components'
 function Movies() {
     return (
       <Container>
-          <h4>Recommended 4 u </h4>
+          <h4>BLOCK79</h4>
       <Content>
             <Wrap>
                 <img src="" />
