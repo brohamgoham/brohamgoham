@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo 👋</h1>
+<h1 align="center">👋</h1>
 
 <h3 align="center"🙏  Thanks for reaching out to me! 🙏</h3>
 
