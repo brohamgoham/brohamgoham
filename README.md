@@ -1,6 +1,3 @@
-<h1 align="center">👋</h1>
-
-<h3 align="center"🙏  Thanks for reaching out to me! 🙏</h3>
 
 ## 💪 Mohammeds Overview
 
