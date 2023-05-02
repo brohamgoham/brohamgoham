@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://github.com/brohamgoham/brohamgoham" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=brohamgoham&hide=python,typescript,javascript,css,scss,java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ffffff" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=brohamgoham&hide=python,typescript,javascript,css,scss,java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=FFDD00" height="180px"/>
   </a>
   
   <a href="https://github.com/brohamgoham/brohamgoham" >
