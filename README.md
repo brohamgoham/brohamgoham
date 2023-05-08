@@ -3,32 +3,6 @@
 
 <a href="https://www.buymeacoffee.com/mohamgoham5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Mohammeds coffee&emoji=&slug=mohamgoham5&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-## MORE ABOUT ME
-
-<p align="center">
-<a href="https://github.com/brohamgoham">
-&nbsp;&nbsp;&nbsp;
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01"/>
-&nbsp;&nbsp;&nbsp;
-<br>
-<a href="https://github.com/brohamgoham"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brohamgoham&layout=compact&theme=react&hide_border=true"/>
-</a>
-</p>
-
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-
-<h2><b><i>📡ConnectWithMe</i></b></h2>
-<p align="center">
-<a href="https://github.com/brohamgoham"><img title="Github" src="https://img.shields.io/badge/brohamgoham-brightgreen?style=for-the-badge&logo=github"></a>
-</p>
-<h3><b><i>🚀Visitors</i></b></h3>
-<img src="https://profile-counter.glitch.me/brohamgoham/count.svg" alt="Visitors">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
- 
 
 ## 📖 Languages
  
