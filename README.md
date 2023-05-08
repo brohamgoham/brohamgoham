@@ -10,7 +10,6 @@
 
 <p align="center">
 <a href="https://github.com/brohamgoham">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=brohamgoham&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"/></a>
 &nbsp;&nbsp;&nbsp;
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01"/>
