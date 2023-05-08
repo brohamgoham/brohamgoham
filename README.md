@@ -3,9 +3,6 @@
 
 <a href="https://www.buymeacoffee.com/mohamgoham5"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Mohammeds coffee&emoji=&slug=mohamgoham5&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-<p align="center"><a href="https://github.com/brohamgoham"><img src="https://avatars.githubusercontent.com/u/111515426?v=4" width="225" height="225" alt="brohamgoham"></a></p>
-<b><p align="center">The best view comes after<br>the hardest climb</p></b>
-
 ## MORE ABOUT ME
 
 <p align="center">
